@@ -1,0 +1,16 @@
+# SmartAqua Project Dependencies
+# Install these via the Arduino IDE Library Manager (Sketch -> Include Library -> Manage Libraries)
+
+# --- SENDER UNIT (Arduino Nano) ---
+LoRa by Sandeep Mistry
+Low-Power by Rocket Scream Electronics
+
+# --- RECEIVER UNIT (ESP32) ---
+LoRa by Sandeep Mistry
+ArduinoJson by Benoit Blanchon
+Arduino MQTT Client by Arduino
+DFRobotDFPlayerMini by DFRobot
+
+# --- BUILT-IN LIBRARIES (No download required) ---
+# SPI.h (Built into Arduino core)
+# WiFi.h (Built into ESP32 core)
