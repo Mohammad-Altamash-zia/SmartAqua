@@ -1,0 +1,15 @@
+# .gitignore
+
+# Arduino / PlatformIO Build files
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore passwords/secrets file (explained below)
+secrets.h
